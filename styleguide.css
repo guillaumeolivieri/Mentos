@@ -1,0 +1,9 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 20px;
+ 
+  --font-family-helvetica_neue-bold: "Helvetica Neue-Bold", Helvetica;
+}
